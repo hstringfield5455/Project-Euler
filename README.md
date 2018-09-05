@@ -1,1 +1,3 @@
-# Project-Euler-1-
+# Project-Euler
+
+This file contains solutions to Euler problems
