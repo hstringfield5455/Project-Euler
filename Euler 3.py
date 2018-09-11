@@ -3,8 +3,8 @@
 # This returns the largest prime factor of a number
 
 def main():
-  num = int(input("What is the number? "))
-  comp(num)
+    num = int(input("What is the number? "))
+    max_factor(num)
 
 def isPrime(n):
     for i in range(2, int(n**0.5)+1):
@@ -31,12 +31,16 @@ def comp(num):
 
         print(larg)
 
-def sol(num):
-    i = 2
-    while i * i < num:
-        while num % i == 0:
-            num = num / i
-        i = i + 1
-    print(num)
+def max_factor(num):
+    """Find the maximum prime factor."""
+    factor = 2
+    while factor * factor <= num:
+        while num % factor == 0:
+            best = factor
+            num /= factor
+        factor += 1
+    if num > 1:
+        print(num)
+    print(best)
 
 main()
