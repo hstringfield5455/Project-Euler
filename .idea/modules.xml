@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Project-Euler.iml" filepath="$PROJECT_DIR$/.idea/Project-Euler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python-functions-assignment-hstringfield5455/.idea/python-functions-assignment-hstringfield5455.iml" filepath="$PROJECT_DIR$/../python-functions-assignment-hstringfield5455/.idea/python-functions-assignment-hstringfield5455.iml" />
     </modules>
   </component>
 </project>
