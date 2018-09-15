@@ -1,6 +1,6 @@
 # Euler First Problem
 # Holden Stringfield
-# This program will return sum of the values that are multiples of 3 under a given value
+# This program will return sum of the values that are multiples of 3 or 5 under a given value
 
 def main():
     num = int(input("What is the value? "))
