@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../python-fileprocessing-hstringfield5455" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../python-interactive-graphics-hstringfield5455" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../python-strings1-hstringfield5455" vcs="Git" />
   </component>
 </project>
