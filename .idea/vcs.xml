@@ -4,6 +4,7 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../GUI-practice" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../codingi-midterm-hstringfield5455" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../codingi-oop-hstringfield5455" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../python-fileprocessing-hstringfield5455" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../python-functions-assignment-hstringfield5455" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../python-interactive-graphics-hstringfield5455" vcs="Git" />
