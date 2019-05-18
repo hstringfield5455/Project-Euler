@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../GUI-practice/.idea/GUI-practice.iml" filepath="$PROJECT_DIR$/../GUI-practice/.idea/GUI-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Project-Euler.iml" filepath="$PROJECT_DIR$/.idea/Project-Euler.iml" />
       <module fileurl="file://$PROJECT_DIR$/../codingi-midterm-hstringfield5455/.idea/codingi-midterm-hstringfield5455.iml" filepath="$PROJECT_DIR$/../codingi-midterm-hstringfield5455/.idea/codingi-midterm-hstringfield5455.iml" />
       <module fileurl="file://$PROJECT_DIR$/../python-fileprocessing-hstringfield5455/.idea/python-fileprocessing-hstringfield5455.iml" filepath="$PROJECT_DIR$/../python-fileprocessing-hstringfield5455/.idea/python-fileprocessing-hstringfield5455.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python-functions-assignment-hstringfield5455/.idea/python-functions-assignment-hstringfield5455.iml" filepath="$PROJECT_DIR$/../python-functions-assignment-hstringfield5455/.idea/python-functions-assignment-hstringfield5455.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python-interactive-graphics-hstringfield5455/.idea/python-interactive-graphics-hstringfield5455.iml" filepath="$PROJECT_DIR$/../python-interactive-graphics-hstringfield5455/.idea/python-interactive-graphics-hstringfield5455.iml" />
       <module fileurl="file://$PROJECT_DIR$/../python-strings1-hstringfield5455/.idea/python-strings1-hstringfield5455.iml" filepath="$PROJECT_DIR$/../python-strings1-hstringfield5455/.idea/python-strings1-hstringfield5455.iml" />
     </modules>
   </component>
